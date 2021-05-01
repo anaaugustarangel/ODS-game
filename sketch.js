@@ -842,7 +842,7 @@ function preload() {
   imagempergunta6 = loadImage("imagemPergunta6.png")
   imagempergunta7 = loadImage("imagemPergunta7.png")
   imagempergunta8 = loadImage("imagemPergunta8.png")
-  imagemTenteNovamente = loadImage("ImagemTenteNovamente.png")
+  imagemTenteNovamente = loadImage("imagemTenteNovamente.png")
   imagemdaultimafase = loadImage("imagemdaultimafase.png")
   imagemdavídeo2 = loadImage("imagemvídeo2.png")
   imageminstruções = loadImage("imageminstruções.png")
